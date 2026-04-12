@@ -34,7 +34,7 @@ Mục tiêu của dự án:
 
 ## Hình ảnh ứng dụng
 
-(Thêm hình ảnh vào đây)
+<img width="240" height="432" alt="Screenshot_1775979379" src="https://github.com/user-attachments/assets/b53a3e68-9f5e-4dec-8c8b-21ab788d918b" />
 
 Ví dụ:
 
